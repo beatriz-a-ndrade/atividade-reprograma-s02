@@ -11,10 +11,14 @@
 ### 02. Conteúdo <h3>
 * Tipos de dados ( String, Number, Boolean, Null x Undefined, Objeto, Array e Function);
 * Variáveis ( Composição: palavra reservada [let/const] + identificador = Valor atribuído );
+* Diferenças entre *let*, *const* e *var*;
+* Identificação de tipos de dados (typeof);
 * Operadores ( Aritméticos, de Atribuição, Lógicos e de Comparação);
 * O que é e como utilizar o Node.js (Instalação e Aplicações Backend);
+* Primeiros passos com JavaScript ( Comandos: alert, prompt, console);
 
 ### 03. O que praticamos? <h3>
 * Utilizamos o Node.js pelo terminal do Vscode;
 * Resolução de simples problemas matemáticos;
-* Criação de programas (Vscode) para solucionar os exemplos de problemas;
+* Criação de programas no Vscode para solucionar os exemplos de problemas;
+
