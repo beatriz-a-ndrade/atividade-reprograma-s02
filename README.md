@@ -20,5 +20,16 @@
 ### 03. O que praticamos? <h3>
 * Utilizamos o Node.js pelo terminal do Vscode;
 * Resolução de simples problemas matemáticos;
-* Criação de programas no Vscode para solucionar os exemplos de problemas;
+* Criação de programas no Vscode para solucionar os exemplos de problemas.
+
+### 04. Conhecimentos usados <h3>
+* Gitbash e Github;
+* Resolução de problemas lógicos matemáticos;
+* Vscode;
+* Node.js;
+* Sintaxe JavaScript;
+* Operadores Aritiméticos e Operadores de Atribuição;
+* Variável *let*;
+* String e Interpolação;
+* Comando: console.
 
